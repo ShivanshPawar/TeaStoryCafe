@@ -6,6 +6,7 @@
     box-sizing: border-box;
     font-family: "Rowdies", sans-serif;
     scrollbar-width: none;
+    user-select: none;
 }
 
 html,
